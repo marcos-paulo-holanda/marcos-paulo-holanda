@@ -5,7 +5,7 @@
 
 - 🔭 I already worked with **datascience** and my last job was on a startup with an **artificial intelligence** project applied to mining engineering.
 
-- 🌱 I’m currently learning **AWS Cloud.**
+- 🌱 I’m currently learning about **AWS Cloud.**
 
 - 👯 I’m looking to collaborate on **Cloud services, machine learning and data projects.**
 
