@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Marcos!</h1>
-<h3 align="center">A passionate fullstack developer from Brazil!</h3>
+<h3 align="center">A passionate developer from Brazil!</h3>
 
 <p align="left"> <a href="https://twitter.com/holanda_marcos" target="blank"><img src="https://img.shields.io/twitter/follow/holanda_marcos?logo=twitter&style=for-the-badge" alt="holanda_marcos" /></a> </p>
 
