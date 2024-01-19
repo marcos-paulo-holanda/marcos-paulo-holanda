@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/holanda_marcos" target="blank"><img src="https://img.shields.io/twitter/follow/holanda_marcos?logo=twitter&style=for-the-badge" alt="holanda_marcos" /></a> </p>
 
-- 🔭 I already worked with **datascience** and recently i'm working in a project for software development to Petrobras..
+- 🔭 I already worked with **datascience** and recently i'm working in a mining company as **data engineer**..
 
 - 🌱 I’m currently learning about **AWS Cloud.**
 
