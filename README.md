@@ -5,7 +5,7 @@
 
 - 🔭 I already worked with **software development** and recently i'm working in a mining company as **data engineer**..
 
-- 🌱 I’m currently learning about **AWS Cloud.**
+- 🌱 I’m currently learning about **Data Engineering Tool.**
 
 - 👯 I’m looking to collaborate on **Software development, machine learning and data projects.**
 
