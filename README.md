@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/holanda_marcos" target="blank"><img src="https://img.shields.io/twitter/follow/holanda_marcos?logo=twitter&style=for-the-badge" alt="holanda_marcos" /></a> </p>
 
-- 🔭 I already worked with **software development** and recently i'm working in a mining company as **data engineer**..
+- 🔭 I already worked with **software development** and recently i'm working in a mining company as **data engineer**.
 
-- 🌱 I’m currently learning about **Data Engineering Tool.**
+- 🌱 I’m currently learning about **Data Engineering Tools.**
 
 - 👯 I’m looking to collaborate on **Software development, machine learning and data projects.**
 
 - 🤝 I’m looking for help with **Cloud services, machine learning, data science and data engineering.**
 
-- 💬 Ask me about **Cloud services, Data Engineering, Machine Learning.**
+- 💬 Ask me about **Data Engineering, Programming and Machine Learning.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/marcos-paulo-holanda/**
 
