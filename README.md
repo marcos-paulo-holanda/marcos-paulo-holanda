@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/holanda_marcos" target="blank"><img src="https://img.shields.io/twitter/follow/holanda_marcos?logo=twitter&style=for-the-badge" alt="holanda_marcos" /></a> </p>
 
-- 🔭 I'm working in a mingin company with business intelligence where i develop and manage **software**  **data** project.
+- 🔭 I'm working in a mining company with business intelligence where i develop and manage **software** and **data** projects.
 
 - 🌱 I’m currently learning about **Data Engineering Tools.** and upskilling in **TypeScript** and **.NET**.
 
